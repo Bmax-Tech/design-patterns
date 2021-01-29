@@ -8,8 +8,8 @@ import bmaxtech.mediator.ActionMediator;
 import bmaxtech.mediator.ActionMediatorImpl;
 
 /**
- * This application is to demonstrate the hosting fee calculation process with chain of
- * responsibility pattern
+ * This application is to demonstrate the remote controller operation logic with mediator design
+ * pattern
  */
 public class Main {
 
