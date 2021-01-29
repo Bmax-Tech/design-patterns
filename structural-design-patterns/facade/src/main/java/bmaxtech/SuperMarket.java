@@ -6,7 +6,7 @@ import bmaxtech.department.FreshProduceDepartment;
 import bmaxtech.department.HouseholdDepartment;
 
 /**
- * Consumer class
+ * Concrete class
  */
 public class SuperMarket {
 
